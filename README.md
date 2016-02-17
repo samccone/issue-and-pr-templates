@@ -8,3 +8,5 @@ There is also added support for pull request templates via a markdown file calle
 https://github.com/samccone/issue-template/issues/new
 
 ### Or edit a file and open a PR! 
+
+[Access pull requests](https://github.com/samccone/issue-template/pulls)
