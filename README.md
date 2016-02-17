@@ -8,3 +8,6 @@ There is also added support for pull request templates via a markdown file calle
 https://github.com/samccone/issue-template/issues/new
 
 ### Or edit a file and open a PR! 
+
+#### Documentation
+For a more indepth explaination check out: https://help.github.com/articles/helping-people-contribute-to-your-project/
