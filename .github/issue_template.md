@@ -1,4 +1,5 @@
 #### Hi, let's file an issue with a template!
+<!--- We can also make a comment that isn't seen if the user doesn't touch it -->
 
 
 1. What is your name?!
